@@ -11,6 +11,7 @@ url_ignores = [
   "https://pages.18f.gov/open-source-guide/making-readmes-readable/",
   %r{^https?://twitter\.com/},
   %r{^https?://(www\.)?kickstarter\.com/},
+  https://meet.google.com/poj-iqdu-fzt
   %r{^https://guides\.github\.com/},
   %r{^https://help\.github\.com/},
   %r{^https://github\.com/},
